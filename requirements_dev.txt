@@ -4,3 +4,6 @@ black
 rope
 pytest
 pylint
+twine
+wheel
+setuptools
